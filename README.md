@@ -34,7 +34,7 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook co2_emission_prediction.ipynb
 📂 Repository Structure
-text
+```
 co2-prediction-sdg13/
 ├── data/                    # Sample datasets
 │   └── owid-co2-data.csv    
@@ -48,10 +48,7 @@ co2-prediction-sdg13/
 ├── requirements.txt         # Python dependencies
 └── README.md                # This file
 🔧 Technical Implementation
-Data Pipeline
-Diagram
-Code
-
+```
 
 
 
