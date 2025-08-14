@@ -25,15 +25,18 @@ https://colab.research.google.com/assets/colab-badge.svg
 2. Run Locally
 bash
 # Clone repository
+```
 git clone https://github.com/yourusername/co2-prediction-sdg13.git
-cd co2-prediction-sdg13
 
+cd co2-prediction-sdg13
 # Install dependencies
 pip install -r requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook co2_emission_prediction.ipynb
+```
 📂 Repository Structure
+
 ```
 co2-prediction-sdg13/
 ├── data/                    # Sample datasets
@@ -49,11 +52,6 @@ co2-prediction-sdg13/
 └── README.md                # This file
 🔧 Technical Implementation
 ```
-
-
-
-
-
 
 Models Compared
 Model	MAE	R² Score
@@ -162,4 +160,4 @@ Join the Discussion Forum
 
 Part of the PLP Academy AI for Sustainable Development Initiative
 
-New chat
+
